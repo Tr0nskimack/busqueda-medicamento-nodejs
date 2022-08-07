@@ -1,0 +1,5132 @@
+[
+  {
+    "codigo": "7591519317824",
+    "producto": "ALPRAMACK (ALPRAZOLAM) 1MG X 30TAB",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "MCK",
+    "precio": "3.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311403",
+    "producto": "ALPRAZOLAM ( ALPROWISE ) 1 MG X 30 TAB",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311090",
+    "producto": "ALPRAZOLAM ( ALPROWISE 2 ) 2 MG X 30 TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000467",
+    "producto": "ALPRAZOLAM 0,5MG X 30TAB (CALOX)",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "CALOX",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311410",
+    "producto": "BROMAZEPAM (BROMEWISE 3 ) 3MG X 30TAB",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311083",
+    "producto": "CLONAZEPAM ( CLONEWISE ) 2 MG TAB X 30 TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "3.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782001755",
+    "producto": "CODEBROMIL PLUS X 90 ML",
+    "fecha_vencimiento": "12/30/2023",
+    "laboratorio": "VINCENTI",
+    "precio": "6.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311458",
+    "producto": "DIAZEPAM ( DIAZE-WIZE ) 10MG/2ML X 10 AMP. IV/IM",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "40",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313278",
+    "producto": "FENOBARBITAL 100 MG X 30 TAB ( FENO WISE )",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313889",
+    "producto": "FENOBARBITAL 200M MG / ML  X 5 AMPOLLAS X 1 ML",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "17",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7800061205207",
+    "producto": "FENTANILO 0,5/10ML X 5AMP IV/IM",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "10",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317565",
+    "producto": "GARDENAL (FENOBARBITAL) 100MG X 30 COMPRIMIDOS",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "CALOX",
+    "precio": "6.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311465",
+    "producto": "MIDAZOLAM ( MIDSOL-WISE ) 15MG/5ML X 10AMP IV/IM",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "60",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7800061330107",
+    "producto": "MORFINA CHT 10MG/1ML X 5AMP IV/IM/SC",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "VITALIS",
+    "precio": "6.55",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311496",
+    "producto": "TRAMADOL CLORHIDRATO ( TRAMOWISE ) 100MG/2ML X 10AMP",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "20",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311106",
+    "producto": "TRAMOFENE (ACETAMINOFEN 325MG Y TRAMADOL 37,5MG)",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095261754",
+    "producto": "ALBENDAZOL 400MG 1 COMPRIMIDO",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "GEOLAB",
+    "precio": "0.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116128",
+    "producto": "AMOVIN  ( AZITROMICINA ) 500 MG X 3 TAB",
+    "fecha_vencimiento": "09/30/2022",
+    "laboratorio": "COFASA",
+    "precio": "1.35",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "742832304771",
+    "producto": "BUTILBROMURO DE ESCOPOLAMINA (COLIPAN) 10MG X 30COMP",
+    "fecha_vencimiento": "10/31/2022",
+    "laboratorio": "GREEN PHARMA",
+    "precio": "5.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095203990",
+    "producto": "CIPROFLOXACINA + DEXAMETASONA  (CIPRIXIN DEXA) X 5ML",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "GEOLAB",
+    "precio": "3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898158691446",
+    "producto": "CLORFENIRAMINA + BETAMETASONA (DEXTAMINE) JARABE  X 120ML",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "CIFARMA",
+    "precio": "1.62",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7897917000383",
+    "producto": "DEXAMETASONA ELIXIR  X 100 ML ( DEXAGLOS )",
+    "fecha_vencimiento": "07/31/2022",
+    "laboratorio": "DEXAGLOS",
+    "precio": "1.13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112170310",
+    "producto": "FUROSEMIDA 40MG X 20 TAB ( TEUTO )",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "TEUTO",
+    "precio": "0.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763165056",
+    "producto": "GLIMEPERIDE 2MG X 16 TAB ( LA SANTE )",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "LA SANTE",
+    "precio": "2.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896006234067",
+    "producto": "LEVONORGESTREL 015MG + ETINILESTRADIOL 0,03 ( CICLO 21 )",
+    "fecha_vencimiento": "08/30/2022",
+    "laboratorio": "UNIAO QUIMICA",
+    "precio": "1.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898014560817",
+    "producto": "LOPERAMIDA ( KAOSEC ) 2 MG X 200 COMPRIMIDOS",
+    "fecha_vencimiento": "07/31/2022",
+    "laboratorio": "PHARMASCIENCE",
+    "precio": "12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349527124",
+    "producto": "MODERAN 10,1G/15ML SOLUCION X 120ML",
+    "fecha_vencimiento": "08/30/2022",
+    "laboratorio": "VARGAS",
+    "precio": "7.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898100242870",
+    "producto": "PARACETAMOL (TYFLEN) 750MG X 200 COMPRIMIDOS (CAJA DE 20 BLISTER X 10 COMP)",
+    "fecha_vencimiento": "12/31/2022",
+    "laboratorio": "BRASTERAPIC",
+    "precio": "8.83",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898495603966",
+    "producto": "PROBENTOL ( DEXPANTENOL ) CREMA X 20G",
+    "fecha_vencimiento": "10/31/2022",
+    "laboratorio": "CIFARMA",
+    "precio": "2.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898569760458",
+    "producto": "ROSUVASTATINA CALCICA 10MG X 30COMP (ALTHAIA)",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "ALTHAIA",
+    "precio": "4.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898569760496",
+    "producto": "ROSUVASTATINA CALCICA 20MG X 30COMP (ALTHAIA)",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "ALTHAIA",
+    "precio": "6.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012490",
+    "producto": "AMOXICILINA 500 MG X 100 TABLETAS ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "10.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875006765",
+    "producto": "AMOXICILINA 875 MG + AC.CLAVULANICO 125MG X 14TAB( ZAKIMED)",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "7.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875006605",
+    "producto": "AMPICILINA + SULBACTAM 1,5G AMP IV/IM ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "0.92",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012544",
+    "producto": "CEFADROXILO 500 MG X 10 TABLETAS ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "2.53",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012421",
+    "producto": "CEFEPIME  AMP 1G IV/IM ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "2.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875004822",
+    "producto": "CEFTRIAXONA 1G AMP ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "0.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875010052",
+    "producto": "CIPROFLOXACINA 500MG X 10 TAB ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875009179",
+    "producto": "COMPLEJO B 3 ML  X 10 AMP I.M/I.V ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "7.14",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012261",
+    "producto": "IBUPROFENO 400MG X 100 TABLETAS ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "6.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012483",
+    "producto": "LEVOFLOXACINA  500MG  X 10 TAB ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "1.91",
+    "pedido": "8",
+    "total": "15.28"
+  },
+  {
+    "codigo": "6921875012520",
+    "producto": "MEROPENEM 1G AMP   I.V  ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "7.49",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875008318",
+    "producto": "METAMIZOL SODICO 2ML X 10AMP IV/IM ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "2.14",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875012476",
+    "producto": "OMEPRAZOL 20MG X 10 CAPSULAS ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "0.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875006161",
+    "producto": "OMEPRAZOL 40MG AMP IV ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875006048",
+    "producto": "OXACILINA 1G X AMPOLLA ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "0.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875006611",
+    "producto": "VANCOMICINA  1 GR AMP IV ( ZAKIMED )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZAKIMED",
+    "precio": "4.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135847",
+    "producto": "ACETILCISTEINA SOLUCION 40 MG/ ML X 120 ML",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095239401",
+    "producto": "ACETILCISTEINA 600MG  X 16 SOBRES GRANULADO ( CISTEIL )",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "GEOLAB",
+    "precio": "6.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898158693556",
+    "producto": "ACICLOVIR 50MG/G ( ACIVIRAX ) CREMA X 10 GRAMO",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "AIRELA",
+    "precio": "1.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598008000762",
+    "producto": "ACIDO ACETILSALISILICO 81MG X 100TAB (LAND)",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "LAND",
+    "precio": "5.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898100242757",
+    "producto": "ACIDO ACETILSALICILICO (SALICETIL) 100MG X 200COMP",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BRASTERAPIC",
+    "precio": "3.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906078135625",
+    "producto": "ACIDO FOLICO 10 MG X 10 COMP ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "0.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310703",
+    "producto": "ACIDO FOLICO ( FOLCIWISE ) 10MG/2ML X 10 AMPOLLAS",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "13.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135786",
+    "producto": "ACIDO FOLICO 1 MG / ML X 30 ML GOTAS PEDIATRICAS",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898133136535",
+    "producto": "ACIDO FOLICO ( AFOLIC ) 5 MG X 20 COMP",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "NATULAB",
+    "precio": "0.99",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095202962",
+    "producto": "ACIDO FOLICO (FOLONIN) 5MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "GEOLAB",
+    "precio": "0.91",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312264",
+    "producto": "ACIDO TRANEXANICO 500 MG / 5 ML X 5 AMP ( TREXAMED 500 )",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "6.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310451",
+    "producto": "ACIDO VALPROICO ( VELIPRO ) 250MG/5ML X 60ML",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310468",
+    "producto": "ACIDO VALPROICO ( VELIPRO ) 500MG X 30TAB",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "4.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311144",
+    "producto": "AMIKACINA ( MIKAMED 500 ) 500MG/2ML AMP IV/IM",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "MEDWISE",
+    "precio": "1.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112110354",
+    "producto": "AMINOFILINA 200MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "TEUTO",
+    "precio": "0.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312769",
+    "producto": "AMINOFILINA INYECTABLE 5 AMP X 10 ML",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "5.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085136011",
+    "producto": "AMIODARONA  INYECTABLE 150MG/3ML X 10 AMPOLLAS",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "MEDEWISE",
+    "precio": "8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "652931970381",
+    "producto": "AMPICILINA + SULBACTAM 1,5G AMP IV/IM",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "REYOUNG",
+    "precio": "1.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045360425",
+    "producto": "AMPICILINA SUSPENSION 250 MG / 5 ML X 60ML ( ZUZU )",
+    "fecha_vencimiento": "06/30/2025",
+    "laboratorio": "ZUZU",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045360418",
+    "producto": "AMOXICILINA SUSPENSION 250 MG/5 ML X 60 ML ( ZUZU )",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "ZUZU",
+    "precio": "1.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898495607384",
+    "producto": "ARNICA (ALIVIOL) AEROSOL 120ML",
+    "fecha_vencimiento": "12/31/2022",
+    "laboratorio": "CIFARMA",
+    "precio": "5.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898495609012",
+    "producto": "ARNICA ( ALIVIOL ) POMADA X 20G",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "CIFARMA",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "18904224200927",
+    "producto": "ATORVASTATINA 10MG X 30TAB (TORIDIN-10)",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "PHARMACOLINA",
+    "precio": "1.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7596347802641",
+    "producto": "AZITROMICINA ( OZITOP ) 500MG AMP IV",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "6.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310413",
+    "producto": "BAYCODEX (BAYCUTEN) CREMA 20GR",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "1.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313377",
+    "producto": "BACITRACINA ZINC CREMA  X 15G ( BACITRAMED )",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8908010870281",
+    "producto": "BECLOMETASONA INH 250MCG X 200 DOSIS",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "KMPLUS",
+    "precio": "14.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085136158",
+    "producto": "BETAMETASONA 0,25M / DEXCLORFENIRAMINA 2MG JARABE X 60ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898095343125",
+    "producto": "BETAMETASONA DIPROPIANATO+FOSFATO BETAMETASONA AMP. (NEO-QUI",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "NEO QUIMICA",
+    "precio": "2.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7897917001557",
+    "producto": "BEZOILMETRONIDAZOL 4% - 40 MG/ML SOLUCION PEDIATRICA X 100ML",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BELFAR",
+    "precio": "3.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082150997",
+    "producto": "BISOPROLOL 10MG X 30 TABLETAS",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "1.71",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135496",
+    "producto": "BROMEXINA ( JARABE 4 MG / 5 ML ) 100 ML",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135502",
+    "producto": "BROMEXINA ( JARABE 8 MG / 5 ML ) 120 ML",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "3.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101536",
+    "producto": "BROMURO DE IPRATROPIO 20MCG X 200 DOSIS INHALADOR",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "11.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "BU00123456",
+    "producto": "BUDESONIDA & FORMATEROL  200MCG X 120 DOSIS ( BUDEFLO-200 )",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "LUCKYS PHARMA",
+    "precio": "9.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101529",
+    "producto": "BUDESONIDA 200MCG X 200 DOSIS",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "10.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045361057",
+    "producto": "CANDESARTAN 16 MG X 30 TAB ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "4.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045361040",
+    "producto": "CANDESARTAN 8 MG X 30 TAB ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "3.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112116660",
+    "producto": "CAPTOPRIL 25MG X 30 COMPRIMIDOS ( TEUTO )",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "TEUTO",
+    "precio": "0.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896714205687",
+    "producto": "CAPTOPRIL 25 MG X 30 COMPRIMIDOS ( NEO-QUIMICA )",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "NEO QUIMICA",
+    "precio": "0.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082150720",
+    "producto": "CARBAMAZEPINA 200MG X 20TAB",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040616992",
+    "producto": "CASPOFUNGINA ( CASPOACTIVE )  X 50MG VIAL",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "94",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906112610194",
+    "producto": "CEFADROXILO 500MG X 10TAB (PRADROXY 500)",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "PRADOXY",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112130192",
+    "producto": "CEFADROXILO 500 MG X 8 TAB ( TEUTO )",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "TEUTO",
+    "precio": "3.55",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "652931974228",
+    "producto": "CEFAZOLINA 1G AMP IM/IV",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "EL MORRO",
+    "precio": "0.88",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040617487",
+    "producto": "CEFAZOLINA ( CEFTIKE-1000 ) AMP 1G IV/IM",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "1.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7502252101093",
+    "producto": "CEFOTAXIMA 1G AMP IV/IM ( DISTRILAB )",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "0.92",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040617050",
+    "producto": "CEFTAZIDIME INYECTABLE USP ( 1 VIAL DE 1000 MG )",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.53",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313438",
+    "producto": "CENTELLA ASIATICA  ( CENTAWISE )  X 40G CREMA",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896004730059",
+    "producto": "CICLOBENZAPRINA 5MG X 30TAB",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "EMS",
+    "precio": "2.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75980008001158",
+    "producto": "CIPROFLOXACINA INFUSION 200 MG/100 ML (LAND)",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "LAND",
+    "precio": "1.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313568",
+    "producto": "CIPROFLOXACINA & HIDROCORTISONA SUSPENSION OTICA X 5 ML",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "3.35",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312103",
+    "producto": "CITICOLINA ( CITOWISE 1000 ) 1000MG/4ML X 10AMP",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "43.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875011424",
+    "producto": "COMPLEJO B (B1, B6, B9) 3ML X 10AMP IM",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "KMPLUS",
+    "precio": "10",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310635",
+    "producto": "COMPLEJO B (VITOWISE B PLUS) 2 ML X 10 AMP",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "20",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176000045",
+    "producto": "CLARITROMICINA 500MG X 10 TABLETAS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "4.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6937861391395",
+    "producto": "CLINDAMICINA 600MG/4ML X 5 AMP IM/IV",
+    "fecha_vencimiento": "08/30/2024",
+    "laboratorio": "KMPLUES",
+    "precio": "7.35",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312844",
+    "producto": "CLONIDINA INYECTABLE USP ( 10 AMP X 1 ML ) 150 MCG / ML",
+    "fecha_vencimiento": "08/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "16.13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "731946648536",
+    "producto": "CLOPIDOGREL 75MG X 10TAB ( ARTE MEDICO )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "ARTE MEDICO",
+    "precio": "0.96",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7463719353554",
+    "producto": "CLORFENIRAMINA 10 MG/ML X 10 AMP I.V / I.M / S.C",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDEK FARMA",
+    "precio": "3.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898505093107",
+    "producto": "CYPROTERONE ACETATE AND ETHINYLESTRADIOL 2MG-0.035 MG X 21 TAB (DIANE 35)",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MAMBRA",
+    "precio": "2.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112194576",
+    "producto": "DEXAMETASONA  4MG X 10TAB ( TEUTO )",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "TEUTO",
+    "precio": "1.99",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707184160478",
+    "producto": "DEXAMETASONA 8MG/2ML X 100 AMP IV/IM",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "FARMIONNI",
+    "precio": "30",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7897917000383",
+    "producto": "DEXAMETASONA ELIXIR  X 100 ML ( DEXAGLOS )",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "BELFAR",
+    "precio": "1.26",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135830",
+    "producto": "DEXTROMETORFANO JARABE 2MG/ML X 120 ML",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7908028021041",
+    "producto": "DIABETYL ( CREMA PARA PIE DIABETICO ) X 300G HIDRATANTE",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "AVVIO PHARMA",
+    "precio": "6.54",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906078135663",
+    "producto": "DICLOFENAC POTASICO 50MG X 30 TABLETAS ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "0.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095201316",
+    "producto": "DICLOFENAC POTASICO ( POLTAX ) 50MG X 20 COMP",
+    "fecha_vencimiento": "31-11-2023",
+    "laboratorio": "GEOLAB",
+    "precio": "0.74",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "731946648567",
+    "producto": "DICLOFENAC POTASICO + ACETAMINOFEN 10 COMPRIMIDOS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ARTE MEDICO",
+    "precio": "0.72",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135656",
+    "producto": "DICLOFENAC POTASICO SUSPENSION 10MG/5ML X 120 ML",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2",
+    "pedido": "8",
+    "total": "16"
+  },
+  {
+    "codigo": "7897917001465",
+    "producto": "DICLOFENAC SODICO ( BELFAREN ) 50MG X 20 COMP",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BELFAR",
+    "precio": "0.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898216361595",
+    "producto": "DIGOXINA 0,25MG TAB X 20 COMPRIMIDOS ( PHARLAB )",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "PHARLAB",
+    "precio": "1.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085134895",
+    "producto": "DIGOXINA (DIGEALTH ) 0,5MG/2ML X 10AMP IV/IM",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "LIVEALTH",
+    "precio": "12.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7895296211062",
+    "producto": "DILTIAZEM 30MG X 50 COMP ( NOVA QUIMICA )",
+    "fecha_vencimiento": "01/30/2023",
+    "laboratorio": "NOVA QUIMICA",
+    "precio": "4.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112115151",
+    "producto": "DIOSMINA + HESPERIDINA ( VENAFLON ) 500MG X 30 TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "TEUTO",
+    "precio": "8.14",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875010861",
+    "producto": "DIPIRONA 500MG X 10TAB",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "KMPLUS",
+    "precio": "0.61",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898133130403",
+    "producto": "DIPIRONA MONOIDRATADA ( MAXALGINA 500 MG/ML ) 10 ML GOTAS",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "NATULAB",
+    "precio": "0.35",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "9800000001370",
+    "producto": "DONEPEZIL 10 MG X 10 TABLETAS ( ZUZU )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZUZU",
+    "precio": "10.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "9800000001387",
+    "producto": "DONEPEZIL 5 MG X 10 TABLETAS ( ZUZU )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZUZU",
+    "precio": "8.36",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252010197",
+    "producto": "ENOXAPARINA 40 MG  X 2 AMP PRELLENADA ( DIXAPARIN )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "DISTRILAB",
+    "precio": "13.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310482",
+    "producto": "ENOXAPARINA 80 MG ( MEGAPARIN )  X2 AMP PRELLENADAS",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "26",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085134611",
+    "producto": "EPINEFRINA ( EPINEALTH ) 1MG/ML X 10AMP IV/IM/SC",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "LIVEALTH",
+    "precio": "10.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703038065920",
+    "producto": "ESPIRONOLACTONA 25MG X 20TAB (LAPROFF)",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "LAPROFF",
+    "precio": "4.23",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703038065906",
+    "producto": "ESPIRONOLACTONA 25MG X 300TAB (LAPROFF)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LAPROFF",
+    "precio": "40.71",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8904095433717",
+    "producto": "FAVIPIRAVIR (PIRAMVIR) 200MG X 40 TABLETAS",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "HEALTH",
+    "precio": "25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112114574",
+    "producto": "FENITOINA 100MG X 30 COMPRIMIDOS",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "TEUTO",
+    "precio": "1.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176000281",
+    "producto": "FLAVOXATO 200MG X 30TAB (ANGELUS)",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "5.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005239",
+    "producto": "FLEX ENEMA ( ENEMA FLEET ) ADULTO SOL RECTAL 130 ML",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "AIRELA",
+    "precio": "3.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8904255501120",
+    "producto": "FLUNARIZINA 10 MG X 30 TAB ( ZUZU )",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040617401",
+    "producto": "FLUOXETINA ( FLIXX-20 ) 20 MG X 30 TAB",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598008001189",
+    "producto": "FLUCONAZOL INFUSION 200MG/100ML",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "LAND",
+    "precio": "1.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8904187810532",
+    "producto": "FLUCONAZOL 150MG X 2 CAPSULAS ( ZUZU )",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "0.63",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085131696",
+    "producto": "FUROSEMIDA 20MG/2ML ( FRUSELIV )  X 10AMP IV/IM",
+    "fecha_vencimiento": "03/24/2023",
+    "laboratorio": "LIVEALTH",
+    "precio": "6.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "890604536296",
+    "producto": "FUROSEMIDA 20MG/2ML X 10A MP IV/IM ( ZUZU )",
+    "fecha_vencimiento": "01/31/2025",
+    "laboratorio": "ZUZU",
+    "precio": "2.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313766",
+    "producto": "GENTAMICINA UNGUENTO OFTALMICO USP 0,3%  CREMA X 15 GRAMOS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085131191",
+    "producto": "GENTAMICINA ( LIVGENTA ) 80MG/2ML X 10AMP IV/IM",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "LIVEALTH",
+    "precio": "3.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101390",
+    "producto": "GENTAMICINA ( 0,3% / 10 ML ) SOLUCION OFTALMICA",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312998",
+    "producto": "GLUCONATO DE CALCIO AL 10% P/V INYECTABLE X 100 ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "3.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898495600552",
+    "producto": "HEMOCORT POMADA ( TRATAMIENTO DE HEMORROIDES )  25G",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "CIFARMA",
+    "precio": "4.11",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310628",
+    "producto": "HIERRO SACAROSA ( FERROWISE ) 100MG/5ML IV X 5 AMPOLLAS",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "13.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045360487",
+    "producto": "HIERRO Y VITAMINA B12 JARABE X 120 ML ( ZUZU )",
+    "fecha_vencimiento": "01/31/2025",
+    "laboratorio": "ZUZU",
+    "precio": "2.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707236123048",
+    "producto": "HIOSCINA 20MG/ML X 10AMP",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "EL MORRO",
+    "precio": "10",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "17598252101038",
+    "producto": "HIDROCORTISONA 500MG AMP IV/IM",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "2.66",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703038066606",
+    "producto": "IBUPROFENO 800MG X 300TAB (LAPROFF)",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "LAPROFF",
+    "precio": "39.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151147",
+    "producto": "IBUPROFENO 800MG X 10 TABLETAS (FARMAMED)",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "0.86",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "9800000001400",
+    "producto": "IBUPROFENO + TIOCOLCHICOSIDO 600 - 4 MG X 10 TAB ( ZUZU )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ZUZU",
+    "precio": "2.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135694",
+    "producto": "INDOMETACINA 25MG X 30 CAPSULAS ( ASIA )",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "1.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501125176586",
+    "producto": "INSULINA N (INSULINEX N) 100 UI/ML X 10ML",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "PISA",
+    "precio": "5.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501125176593",
+    "producto": "INSULINA R (INSULINEX R) 100 UI/ML X 10ML",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "PISA",
+    "precio": "5.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7899095201378",
+    "producto": "ITRACONAZOL (TRAXONOL) 100MG X 15 CAPSULAS",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "GEOLAB",
+    "precio": "4.71",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "3582910027775",
+    "producto": "IRBESARTAN/HIDROCLOROTIA COAPROVEL (150 MG/12,5 MG) X 14 TAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "SANOFI",
+    "precio": "8.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164003938",
+    "producto": "KETOCONAZOL ( SHAMPOO ANTICASPA  20MG/G ) 100ML",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "3.17",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898100241279",
+    "producto": "KETOCONAZOL 20MG/G ( CONAZOL ) CREMA 20G",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "BRASTERAPIC",
+    "precio": "1.24",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045360302",
+    "producto": "KETOPROFENO I.V. / I.M. 100 MG / 2 ML X 5 AMP ( ZUZU )",
+    "fecha_vencimiento": "01/31/2025",
+    "laboratorio": "ZUZU",
+    "precio": "6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085133102",
+    "producto": "KETOROLACO ( KETROEALTH  ) 30MG/ML X 10AMP",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313575",
+    "producto": "LAGRIMAS ARTIFICIALES ( WISE TEAR ) X GOTAS 15 ML",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005727",
+    "producto": "LECHE MAGNESIA ( MAGMILK ) 80MG/ML SOLUCION 100ML",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "1.32",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "759825200297",
+    "producto": "LERCANIDIPINA 20 MG X 10 TAB ( DIANIDIP )",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "5.48",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "89042555198",
+    "producto": "LERCANIDIPINA 10 MG X 30 TAB ( ZUZU )",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "6.69",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252001874",
+    "producto": "LEVOFLOXACINA  750 MG  X  10 TAB ( DISTRILAB )",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "4.28",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310956",
+    "producto": "LEVOFLOXACINA INFUSION IV 500MG/100ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "MEDWISE/KMPLUS",
+    "precio": "8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7908020502586",
+    "producto": "LEVONOGESTREL 0.15MG + ETINILESTRADIOL 0.03MG ( LINOFEME )",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "CIFARMA",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896006234067",
+    "producto": "LEVONORGESTREL 015MG + ETINILESTRADIOL 0,03 ( CICLO 21 )",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "NEO-QUIMICA",
+    "precio": "2.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7908020503125",
+    "producto": "LEVONORGESTREL ( NEODIA ) 1,5MG X 1 COMPRIMIDO",
+    "fecha_vencimiento": "31-06-2023",
+    "laboratorio": "NEO QUIMICA",
+    "precio": "0.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101352",
+    "producto": "LEVOTIROXINA SODICA 100MCG X 10 TABLETAS ( DISTRILAB )",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "0.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597533001787",
+    "producto": "LEVOTIROXINA SODICA 0,1 MG X 10 TABLETAS",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "ZAKI",
+    "precio": "1.16",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311120",
+    "producto": "LIDOCAINA 1% ( LIDOMED ) AMP 50ML IV/IM",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252000099",
+    "producto": "LINEZOLID ( DIZOLID ) 600MG/300ML AMP IV",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "DISTRILAB",
+    "precio": "13.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906112610538",
+    "producto": "LINEZOLID ( PRAZOLID) 600MG X 10 TABLETAS",
+    "fecha_vencimiento": "12/30/2023",
+    "laboratorio": "ADN MEDICAL",
+    "precio": "12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898049790180",
+    "producto": "LORATADINA ( LORASLIV ) 10MG X 12 COMP",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "VITAMEDIC",
+    "precio": "0.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085136141",
+    "producto": "LORATADINA / BETAMETASONA 1MG/0,05 MG JARABE X 60ML",
+    "fecha_vencimiento": "12/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176000090",
+    "producto": "LOSARTAN POTASICO/HCT 50MG-12,5MG X 30TAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "3.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637397392",
+    "producto": "MEGAMOX ( MOXIFLOXACINA ) INFUSION 400MG /250 ML  ( I.V )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "10.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707236121822",
+    "producto": "MELOXICAM 15MG/1,5ML X 10AMP IM",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "VITALIS",
+    "precio": "7.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906122851471",
+    "producto": "MELOXICAM 15 MG X 20 TABLETAS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ARTE MEDICO",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151093",
+    "producto": "MELOXICAM 15 MG X 10 TAB (FARMAMED)",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "0.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707291520646",
+    "producto": "MEROPENEM 1G X VIAL",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "FARMALOGICA",
+    "precio": "8.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176000311",
+    "producto": "METFORMINA  1 G X 30 TAB",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "4.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "18904224200965",
+    "producto": "METFORMINA 850MG X 30TAB (GLYCOFORM-850)",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "PHARMACOLINA",
+    "precio": "1.71",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7596347801958",
+    "producto": "METILPREDNISOLONA  ( PREDWISE 500 )  500MG X  AMP IV/IM",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "6.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "6921875009186",
+    "producto": "METOCLOPRAMIDA 10MG/2ML X 10AMP IV",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "KMPLUS/TEUTO",
+    "precio": "3.62",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101277",
+    "producto": "METRONIDAZOL 500MG X 100TAB BLISTER 10 X 10 ( DISTRILAB )",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "DISTRILAB",
+    "precio": "6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085130491",
+    "producto": "METRONIDAZOL 125MG/5ML SUSPENSION ORAL X 120 ML",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "1.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135595",
+    "producto": "METRONIDAZOL 250MG/5ML SUSPENSION ORAL X 120 ML",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "2.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151222",
+    "producto": "MEMANTINA 10MG X 10 TABLETAS",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "18904030979376",
+    "producto": "MICONAZOL CREMA TOPICA X 15GR",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "PHARMACOLINA",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313285",
+    "producto": "MOLNUPIRAVIR 200MG ( MOLNU - WISE ) X 20 CAPSULAS",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "42",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045361200",
+    "producto": "MONTELUKAST 10 MG X 30TAB ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "3.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045361194",
+    "producto": "MONTELUKAST 5 MG X 30TAB ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "2.46",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120312608",
+    "producto": "MOXIFLOXACINA INFUSION 400MG /100ML  ( I.V )",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "6.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896523202600",
+    "producto": "NARIX ( CLORHIDRATO DE NAFAZOLINA ) 0.5MG/ML X 30ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "CIMED",
+    "precio": "0.91",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898158694416",
+    "producto": "NERALGYN (DIPIRONA+CAFEINA) X 20TAB",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "CIFARMA",
+    "precio": "1.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707236121594",
+    "producto": "NEOSTIGMINA 0.5MG/1ML X 10 AMPOLLAS (VITALIS)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VITALIS",
+    "precio": "5.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896862910747",
+    "producto": "NIFEDIPINA 20MG ( NIFEDIPRESS ) X 30TAB",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MEDQUIMICA",
+    "precio": "2.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898158693228",
+    "producto": "NISTATINA + OXIDO DE ZINC ( OXYDERM )  CREMA X 60G",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "CIFARMA",
+    "precio": "2.83",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135670",
+    "producto": "NITAZOXANIDA 100 MG / 5 ML SUSPENSION ORAL X 30 ML",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "5.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135687",
+    "producto": "NITAZOXANIDA 500MG X 6 COMPRIMIDOS ( ASIA )",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "2.86",
+    "pedido": "6",
+    "total": "17.16"
+  },
+  {
+    "codigo": "8906085134918",
+    "producto": "NOREPINEFRINA ( NOREPINALTH ) 4MG/4ML X 10AMP AMP IV",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "LIVEALTH",
+    "precio": "11.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040617159",
+    "producto": "OLMESARTAN 40 MG X 30 TABLETAS ( TAKEFAST 40MG )",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "4.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8908003460536",
+    "producto": "ONDANSETRON INYECCION 8 MG/ 4ML 10 AMP",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "KMPLUS",
+    "precio": "11.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313490",
+    "producto": "OXCARBAMAZEPINA 300MG/5ML ( OX CARBAMED ) SUSPENSION X 100ML",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "16",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896006212720",
+    "producto": "OXCARBAZEPINA 300 MG X 30 COMP",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "UNIAO QUIMICA",
+    "precio": "7.04",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906045361125",
+    "producto": "PARACETAMOL 1 G X 10 TAB ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "1.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252101079",
+    "producto": "PARACETAMOL 1G/100ML SOLUCION INYECTABLE",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "DISTRILAB",
+    "precio": "2.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898100242726",
+    "producto": "PARACETAMOL ( TYFLEN ) 32 MG/ML 60 ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BRASTERAPICA",
+    "precio": "1.36",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "177009373102174",
+    "producto": "PIPERACILINA 4G + TAZOBACTAM 0,5G X VIAL",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "NORSTAY",
+    "precio": "5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906078135731",
+    "producto": "PREGABALINA 75MG X 30 CAPSULAS ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "2.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597533001718",
+    "producto": "PREDNISONA 5MG X 10 TABLETAS (ZAKI)",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ZAKI",
+    "precio": "0.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896714200699",
+    "producto": "PREDNISONA ( CORTICORTEN )  20 MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "NEO QUIMICA",
+    "precio": "2.44",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040617265",
+    "producto": "PREDNISONA  15 MG/ 5 ML  X 60 ML ( PREDO - 120 )",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "5.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906040613267",
+    "producto": "PROPOFOL ( PROPOWELL ) 200MG/20ML  AMP IV",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "6.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7709154676781",
+    "producto": "PROPOFOL 1 %  ( FRESENIUS ) 200MG/20ML  AMP IV",
+    "fecha_vencimiento": "06/12/2023",
+    "laboratorio": "FRESENIUS KABI",
+    "precio": "6.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151185",
+    "producto": "QUETIAPINA 100MG X 10 TABLETAS",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7707236127305",
+    "producto": "RANITIDINA 50MG/2ML X 10AMP IV/IM",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VITALIS",
+    "precio": "1.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898133134784",
+    "producto": "RIFAMICINA SPRAY ( RIFOTRAT ) SPRAY 20 ML",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "NATULAB",
+    "precio": "2.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "2128108325",
+    "producto": "RIVAROXABAN 20MG X 28TAB ( PHARMATECH )",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "PHARMATECH",
+    "precio": "12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151215",
+    "producto": "RISPERIDONA 1MG X 20 TABLETAS ( FARMAMED )",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "1.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906082151214",
+    "producto": "RISPERIDONA 2 MG X 20 TABLETAS ( FARMAMED )",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "FARMAMED",
+    "precio": "1.59",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "18906043090567",
+    "producto": "ROSUVASTATINA 20MG X 100TAB (10 BLISTER X 10TAB)",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "FAHD",
+    "precio": "11.71",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176001448",
+    "producto": "ROSUVASTATINA 20MG X 30 TAB",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "4.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112147640",
+    "producto": "SALBUTAMOL ( AERODINI ) 100MCG X 200 DOSIS",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "TEUTO",
+    "precio": "4.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8904324100113",
+    "producto": "SERTRALINA 50MG X 100TAB",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "PHARMACOLINA",
+    "precio": "7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896714226705",
+    "producto": "SILDENAFIL 50MG X 4TAB ( NEO QUIMICA )",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "NEO QUIMICA",
+    "precio": "0.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896004739489",
+    "producto": "SIMVASTATINA 20 MG ( LIPISTATINA ) X 30 COMPRIMIDOS",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "NOVA QUIMICA",
+    "precio": "1.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252000211",
+    "producto": "SITAGLIPTINA 50 MG - METFORMINA 500 MG X 30 TAB ( DISTRILAB",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "7.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501125132056",
+    "producto": "SOLUCION FISIOLOGICA 0,9% ( PISA ) 500 ML",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "PISA",
+    "precio": "1.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501125132117",
+    "producto": "SOLUCION FISIOLOGICA 0,9% ( PISA ) 100 ML",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "PISA",
+    "precio": "1.06",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501125132070",
+    "producto": "SOLUCION RINGER LACTATO 500ML",
+    "fecha_vencimiento": "08/30/2024",
+    "laboratorio": "PISA",
+    "precio": "1.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "9800000001295",
+    "producto": "SUCRALFATO 1 GR X 30 TABLETAS ( ZUZU )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ZUZU",
+    "precio": "2.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005413",
+    "producto": "SUERO ( HIDRALI 45 ) SABOR GUARANA X 500ML",
+    "fecha_vencimiento": "12/30/2023",
+    "laboratorio": "AIRELA",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005406",
+    "producto": "SUERO ( HIDRALI 45 ) SABOR UVA X 500ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "AIRELA",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005420",
+    "producto": "SUERO ( HIDRALI 45 ) SABOR NARANJA X 500ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005413",
+    "producto": "SUERO ( HIDRALYTE ) SABOR GUARANA X 500ML",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "AIRELA",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898049792511",
+    "producto": "SULFAMETOXAZOL + TRIMETOPRIMA SOL X 100 ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "VITAMEDIC",
+    "precio": "1.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164005802",
+    "producto": "SULFATO FERROSO ( SULFERMAX ) 125MG/ML SOLUCION X 30ML",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "0.97",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598176000410",
+    "producto": "SULTAMICILINA 750MG X 10TAB",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "ANGELUS",
+    "precio": "10",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085130941",
+    "producto": "TADALAFIL ( TADALAFILO ) 20 MG X 4 TAB",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "MEDWISE",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7896112129363",
+    "producto": "TARTARATO DE BRIMONIDINA 2MG/ML SOL. OFTALMICA X 5ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "TEUTO",
+    "precio": "5.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7898106008883",
+    "producto": "TEST DE EMBARAZO ( CONFIRA)",
+    "fecha_vencimiento": "12/15/2023",
+    "laboratorio": "SANFARMA",
+    "precio": "1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085136028",
+    "producto": "TEOFILINA 80 MG / 15 ML SOLUCION ORAL X 120 ML",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7598252000037",
+    "producto": "TOBRAMICINA-DEXAMTASONA  UNGUENTO OFTALMICO X 3 GRAMOS",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "3.12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703712035928",
+    "producto": "TRIMEBUTINA 200MG X 330 TAB (33 BLISTER X 10TAB) COASPHARMA",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "COASPHARMA",
+    "precio": "62.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703038066637",
+    "producto": "TRIMEBUTINA 200MG X 300 TAB (30 BLISTER X 10TAB) LAPROFF",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "LAPROFF",
+    "precio": "56.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7770108671121",
+    "producto": "ULTRA ANTIFLAT (MAGALDRATO - SIMETICONA)20 TAB SABOR A FRESA",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "ARTE MEDICO",
+    "precio": "7.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7770108670575",
+    "producto": "ULTRA ANTIFLAT (MAGALDRATO - SIMETICONA)20 TAB SABOR A MENTA",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "ARTE MEDICO",
+    "precio": "7.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "890606085135571",
+    "producto": "VALSARTAN 160 MG X 30TAB",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085135564",
+    "producto": "VALSARTAN 80 MG X 30 TAB",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "3.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120311007",
+    "producto": "VANCOMICINA ( VANCOMED ) 1 GR AMP IV",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "4.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7709990439212",
+    "producto": "VANCOMICINA 500 MG AMP IV  ( VITALIS )",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "VITALIS",
+    "precio": "2.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120310406",
+    "producto": "VINOREX 600 ( DIOSMINA ) 600MG X 14TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MEDWISE",
+    "precio": "4.7",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "17598252101540",
+    "producto": "VITAMINA C USP 500MG / 5ML X 10 AMP IV ( DISTRILAB )",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "DISTRILAB",
+    "precio": "10.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164006014",
+    "producto": "VITAMINA C, D Y ZINC  ( VITAXON ) X 10 COMP EFERVESCENTES",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "2.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7894164007127",
+    "producto": "VITAMINA C, D Y ZINC ( VITAXON C ) X 30 COMPRIMIDOS",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "AIRELA",
+    "precio": "3.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "5060829020004",
+    "producto": "VITAMINA D ( D3 BALANCE  ) 5000 IU X 30CAPS",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906085133645",
+    "producto": "VITAMINA K 10MG/ML X 10 AMP IV / IM ( LIV-VIT K )",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "11",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "8906120313094",
+    "producto": "ZINC 50MG X 60 TAB ( ZINCOMED )",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "MEDWISE",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005068",
+    "producto": "# 1 DEXTROSA AL 5 % EN AGUA DESTILADA X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "2.88",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005075",
+    "producto": "# 4 DEXTROSA AL 5 % EN SOL. FISIOLOGICA X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637001121",
+    "producto": "# 16 SOL. CLORURO DE SODIO AL 0,9% 500 ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "BEHRENS",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637001312",
+    "producto": "# 16 SOL. CLORURO DE SODIO AL 09 % I.V. X 100 ML ( BEHRENS )",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "BEHRENS",
+    "precio": "2.37",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005082",
+    "producto": "# 28 DEXTROSA - SAL AL 0,30% INFUSION I.V 500 ML ( BEHRENS )",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "2.88",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005099",
+    "producto": "# 29 DEXTRO-SAL 5% - 0,45 % INFUION I.V 500ML ( BEHRENS )",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637000391",
+    "producto": "# 49 AGUA DESTILADA INFUSION I.V 500 ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "BEHRENS",
+    "precio": "3.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818132074",
+    "producto": "ACETAMINOFEN 120/5ML JARABE PED X 120ML",
+    "fecha_vencimiento": "04/30/2026",
+    "laboratorio": "COFASA",
+    "precio": "2.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454003384",
+    "producto": "ACETAMINOFEN 500 MG X 100 TAB (20 BLISTER X 5TAB) (LA SANTE)",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "6.01",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454000031",
+    "producto": "ACETAMINOFEN 500 MG X 20 TAB (LA SANTE)",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "1.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454001243",
+    "producto": "ACETAMINOFEN 650 MG X 10 TAB (LA SANTE)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75924544102001",
+    "producto": "ACICLOVIR 200 MG ( LA SANTE )  X 24 TABLETAS",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "3.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000234",
+    "producto": "ACICLOVIR (LABICIS) 50MG X 20G CREMA",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BOOZ",
+    "precio": "4.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001194",
+    "producto": "ACIDO SALICILICO 1% (SALICIS) X 20G CREMA",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "2.96",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818210406",
+    "producto": "AEROFLAT (SIMETICONA  80 MG/ML 20 ML)",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "4.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818111024",
+    "producto": "AIRFEN (OXIMETAZOLINA 0,025%) GOTAS NASALES PEDIATRICO 15 ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "3.13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519007022",
+    "producto": "ALBENDAZOL 200MG X 2TAB MASTICAB SABOR TUTTI FRUTTI (CALOX)",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "CALOX",
+    "precio": "1.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001293",
+    "producto": "ALBENDAZOL 400MG X 10ML SOBRE (BOOZ)",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BOOZ",
+    "precio": "0.96",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454003261",
+    "producto": "ALBENDAZOL 200 MG  X 2 COMPRIMIDO  ( LA SANTE )",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "1.23",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454120371",
+    "producto": "ALBENDAZOL 200 MG  X 6 COMPRIMIDOS  ( LA SANTE )",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "3.05",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454120364",
+    "producto": "ALBENDAZOL 400MG/20 ML SUSPENSION X 20ML ( LA SANTE )",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243801620",
+    "producto": "ALIPAL FORTE X 4CAP DIA + 2 CAP NOCHE",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "2.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454120203",
+    "producto": "AMBROXOL 15MG/5ML X 120ML PEDIATRICO (LA SANTE)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "3.21",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454120302",
+    "producto": "AMBROXOL 30MG/5ML X 120 ML ADULTO  ( LA SANTE )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "4.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243801750",
+    "producto": "AMIODARONA ( AMIODARONA CLORHIDRATO )  HCL 200 MG X 10 TAB",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "5.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001282",
+    "producto": "AMIKACINA 5% (AMIKACIS) X 20G CREMA",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001358",
+    "producto": "AMLODIPINA 10MG X 10TAB (CALOX)",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "CALOX",
+    "precio": "1.42",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001648",
+    "producto": "AMLODIPINA 10MG X 30TAB (CALOX)",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "CALOX",
+    "precio": "3.02",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001334",
+    "producto": "AMLODIPINA 5MG X 10TAB (CALOX)",
+    "fecha_vencimiento": "09/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454887014",
+    "producto": "AMLODIPINO 5MG X 10 COMPRIMIDOS (LA SANTE)",
+    "fecha_vencimiento": "01/30/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "1.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889575",
+    "producto": "AMLODIPINO 5MG X 30 COMPRIMIDOS (LA SANTE)",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "3.55",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116128",
+    "producto": "AMOVIN  ( AZITROMICINA ) 500 MG X 3 TAB",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "COFASA",
+    "precio": "1.35",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454000796",
+    "producto": "ANALPER  PLUS (ACETAMINOFEN 500 MG HIOSCINA 10 MG) 10 TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "4.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454003063",
+    "producto": "ANALPER FEM PLUS (IBUPROFENO 200 MG - HIOSCINA 10 MG) 10 TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "3.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454000802",
+    "producto": "ANALPER FORTE (ACETAMINOFEN 650 MG) 10 TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "1.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454000789",
+    "producto": "ANALPER NAX (NAPROXENO) 250MG X 10 CAPSULAS",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519051872",
+    "producto": "ANTAAR (BISOPROLOL) 2,5MG X 30TAB",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "CALOX",
+    "precio": "4.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519051902",
+    "producto": "ANTAAR (BISOPROLOL) 10MG X 30TAB",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "CALOX",
+    "precio": "7.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519051896",
+    "producto": "ANTAAR (BISOPROLOL) 5MG X 30TAB",
+    "fecha_vencimiento": "01/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "5.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317367",
+    "producto": "ANTAAR HCT (BISOPROLOL+HIDROCLOROTIAZ) 2,5MG+6,25MG X 30TAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "MCK",
+    "precio": "7.21",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317343",
+    "producto": "ANTAAR HCT (BISOPROLOL+HIDROCLOROTIAZIDA) 5MG+6,25MG X 30TAB",
+    "fecha_vencimiento": "08/30/2024",
+    "laboratorio": "MCK",
+    "precio": "5.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349001068",
+    "producto": "ANTIFOM FORTE 160MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "VARGAS",
+    "precio": "5.2",
+    "pedido": "2",
+    "total": "10.4"
+  },
+  {
+    "codigo": "7592349722925",
+    "producto": "ANTIFOM (SIMETICONA) 40 MG X 10 COMP",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "VARGAS",
+    "precio": "4.35",
+    "pedido": "2",
+    "total": "8.7"
+  },
+  {
+    "codigo": "7591243802092",
+    "producto": "ARESAN 20MG X 30TAB",
+    "fecha_vencimiento": "03/24/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "6.08",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889650",
+    "producto": "ATORVASTATINA 20 MG X 30 TAB (LA SANTE)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "4.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763200900",
+    "producto": "ATORVASTATINA 20 MG X 14 TAB (LA SANTE)",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "2.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818210512",
+    "producto": "ATORVASTATINA 20 MG X 14 TAB ( ATORVACOF )",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "COFASA",
+    "precio": "0.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763200887",
+    "producto": "ATORVASTATINA 40 MG X 14 TAB (LA SANTE)",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "4.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349001129",
+    "producto": "ATROVERAN ( N-BUTIL-BROMURO DE HIOSCINA ) 10 MG X 10 TAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VARGAS",
+    "precio": "4.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349722161",
+    "producto": "ATROVERAN ( N-BUTIL-BROMURO DE HIOSCINA ) 10MG/ML 15 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VARGAS",
+    "precio": "4.89",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763700219",
+    "producto": "AZITROMICINA 500 MG X 5 TAB (LA SANTE)",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "3.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597758000152",
+    "producto": "AZITROMICINA SUSP ORAL 200 MG / 5 ML 22 ML ( ALESS )",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "ALESS",
+    "precio": "3.22",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519002027",
+    "producto": "AZITROMICINA 500MG X 3TAB (CALOX)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "CALOX",
+    "precio": "2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243803167",
+    "producto": "AZUTAN 0,15% COLUTORIO ( CLORHIDRATO DE BENZIDAMINA )180ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75970543",
+    "producto": "AZUFRE 10% + IVERMECTINA 1% + VIT A-D Y E (SULFUROCIS) X 40G",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "BOOZ",
+    "precio": "1.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000265",
+    "producto": "BETAMETASONA 0,1% (BETAMER) X 20G CREMA",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "4.04",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001149",
+    "producto": "BETAMETASONA 0,1% + AC SALICILICO 0,05% (BETASALICIS) X 20G",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "4.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000289",
+    "producto": "BETAMETASONA 0,1% + GENTAMICINA 0,1% (BETAGEMER) X 20G CREMA",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "BOOZ",
+    "precio": "4.23",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001286",
+    "producto": "BETAMETASONA 1% + FLUCONAZOL 2,5% + GENTAMICINA 1% (QUADRIME)",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "5.19",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7702418000568",
+    "producto": "BISOPROLOL + HIDROCLOROTIAZ (ZIAC) (2,5/6,25) X 30 TAB",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "MERCK",
+    "precio": "9.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243803600",
+    "producto": "BEPRODERM (BETAMETASONA+GENTAMICINA) CREMA X 15G",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243804140",
+    "producto": "BETADERM ( BETAMETASONA VALERATO 0,05% ) CREMA 15 G",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243804041",
+    "producto": "BETADERM C/GENTAMICINA 0,1%-0,1% CREMA T-15",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243804164",
+    "producto": "BETADERM PLUS ( BETAMETASONA-GENTAMICINA-CLOTRIMAZOL) 15 G",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "5.21",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637000100",
+    "producto": "BICARBONATO DE SODIO AL 5% INFUSION I.V. X 100ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2026",
+    "laboratorio": "BEHRENS",
+    "precio": "4.07",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000122",
+    "producto": "BIOCOR (OLMESARTAN) 40MG X 30TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "MCK",
+    "precio": "9.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519316247",
+    "producto": "BIOCOR AMLO (OLMESARTAN+AMLODIPINA) 20MG + 5MG X 30TAB",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "MCK",
+    "precio": "8.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243805376",
+    "producto": "BLOCAX 16 MG TAB. EST 30 TAB",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "9.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243805338",
+    "producto": "BLOCAX 8 MG TAB. EST 30 TAB",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "7.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000405",
+    "producto": "BLOKXA (RIVAROXABAN) 10MG X 14TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "CALOX",
+    "precio": "10.54",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000412",
+    "producto": "BLOKXA (RIVAROXABAN) 15MG X 14TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "MCK",
+    "precio": "12.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000429",
+    "producto": "BLOKXA (RIVAROXABAN) 20MG X 14TAB",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "MCK",
+    "precio": "13.11",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243807127",
+    "producto": "BRAL (DIPIRONA) 500MG X 100TAB (25 BLIST X 4TAB)",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "26.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243807202",
+    "producto": "BRAL 500 MG TAB EST. 20 TAB",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "5.56",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818111031",
+    "producto": "BREXIN 100MG/ML GOTAS X 15ML",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "COFASA",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716755",
+    "producto": "BREXIN FORTE (ACETAMINOFEN 650MG) 10 TAB",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "0.69",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651896805",
+    "producto": "BRODILIN 0,005MG/5ML JBE PED X 120ML",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "VARGAS",
+    "precio": "3.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891448",
+    "producto": "BROMEXINA 4MG/5ML PEDIATRICO  X 120ML  ( LA SANTE )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243807370",
+    "producto": "BROFLEMA (BROMEXINA) 8MG/5ML JARABE X 120ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891332",
+    "producto": "BUCOXOL GAR X 120 ML JARABE SABOR FRUTOS ROJOS",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.64",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75924454891349",
+    "producto": "BUCOXOL GAR X 120 ML JARABE SABOR MENTA FRESCA",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.64",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891356",
+    "producto": "BUCOXOL GAR X 120 ML JARABE SABOR MIEL Y LIMON",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.64",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000338",
+    "producto": "BUTROPINA ( N-BUTILBROMURO DE HIOSCINA ) 5 MG/ML GOTAS",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "4.03",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519008487",
+    "producto": "CALOXPIRINA (AC ACETILSALICILICO) 81MG X 30TAB",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "CALOX",
+    "precio": "4.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651930967",
+    "producto": "CARDIPIRINA 80MG X 30 CAPSULAS",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "ZUOS",
+    "precio": "3.86",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001163",
+    "producto": "CALAMINA (CALAMICIS) LOCION X 200ML",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "BOOZ",
+    "precio": "3.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243807554",
+    "producto": "CALPAL D (1500 MG CITRATO DE CALCIO-300 U.I VIT D3) X 30 TAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "7.76",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243807585",
+    "producto": "CALPAL D NATAL (CITRATO DE CALCIO-ACIDO FOLICO- VIT D3) X 30",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "8.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519007633",
+    "producto": "CARVEDILOL 6,25MG X 14 COMPRIMIDOS (CALOX)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "CALOX",
+    "precio": "2.42",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803004086",
+    "producto": "CEFIPLUS (METRONIDAZOL 15%+MICONAZOL 4%) CREMA VAGINAL X 40G",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "5.41",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001170",
+    "producto": "CENTELLA ASIATICA 1% (CENTELLACIS) X 20G CREMA",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "5.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000101",
+    "producto": "CINAREN (CINNARIZINA) 25MG X 50 COMPRIMIDOS",
+    "fecha_vencimiento": "11/30/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "6.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000118",
+    "producto": "CINAREN (CINNARIZINA) 75MG X 20 CAPSULAS",
+    "fecha_vencimiento": "04/30/2026",
+    "laboratorio": "DOLLDER",
+    "precio": "5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005518",
+    "producto": "CIPROQUIN ( CIPROFLOXACINA ) I.V 200 MG X 100ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "3.28",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001159",
+    "producto": "CLINDAMICINA 1% + PROPILENGLICOL 5% (CLINDAMER) X 20G CREMA",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "BOOZ",
+    "precio": "5.16",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803003997",
+    "producto": "CLOFEN (DICLOFENAC POTASICO) 1,8MG/ML SUSPENSION X 120ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "4.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001801",
+    "producto": "CLOFEN (DICLOFENAC POTASICO) 1,8MG/ML SUSPENSION X 60ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "3.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803004055",
+    "producto": "CLOFEN (DICLOFENAC POTASICO) 50MG X 30 COMPRIMIDOS",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "2.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001788",
+    "producto": "CLOFEN (DICLOFENAC POTASICO) 50MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "1.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637000339",
+    "producto": "CLORURO DE POTASIO 7,5% SOLUCION FR I.V X 100ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "4.16",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116104",
+    "producto": "CELAY ( CETIRIZINA )  10MG X 10 TABLETAS",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "1.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818215050",
+    "producto": "CELAY (CETIRIZINA 5MG/5ML) CONTENIDO NETO 100 ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "4.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454138185",
+    "producto": "CETIRIZINA 10 MG X 10 TAB (LA SANTE)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "1.61",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597189000097",
+    "producto": "CITRATO DE CALCIO CON VITAMINA D X 30 TABLETAS",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "8.19",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716700",
+    "producto": "CLORACE 125MG-0,5MG/5ML PEDIATRICO SABOR FRAMBUESA X  120 ML",
+    "fecha_vencimiento": "02/28/2026",
+    "laboratorio": "COFASA",
+    "precio": "3.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116043",
+    "producto": "CLORACE ( ACETAMINOFEN 500MG-4MG) 10 TABLETAS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "2.36",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818215265",
+    "producto": "CLORACE ( ACETAMINOFEN 500MG-4MG) 20 TABLETAS",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "COFASA",
+    "precio": "4.28",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716724",
+    "producto": "CLORACE GOTAS 30ML",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "COFASA",
+    "precio": "3.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818000106",
+    "producto": "CLORACI 1000MG X 30 TAB",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818000182",
+    "producto": "CLORACI PLUS 1000 MG / 10 MG X 30 TAB",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "7.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597758000657",
+    "producto": "CLOTRIMAZOL 200 MG X 3 OVULOS VAGINALES ( ALESS )",
+    "fecha_vencimiento": "31-11-2024",
+    "laboratorio": "ALESS",
+    "precio": "2.19",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597758000664",
+    "producto": "CLOTRIMAZOL 500 MG X 1 OVULOS ( ALESS )",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "ALESS",
+    "precio": "2.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716779",
+    "producto": "COFADOR ( DORZOLAMIDA 2% ) SOLUCION OFTALMICA  X 5 ML",
+    "fecha_vencimiento": "07/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "7.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243811469",
+    "producto": "DECA LENTERMINA COMPLEX (COMPLEJO B) X 2AMP",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "2.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000306",
+    "producto": "DEFLAZACORT 30MG X 10 TABLETAS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "5.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519008203",
+    "producto": "DEFLAZACORT 30MG X 30 TABLETAS",
+    "fecha_vencimiento": "01/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519008197",
+    "producto": "DEFLAZACORT 6MG X 10 TABLETAS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "5.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "759245489138",
+    "producto": "DESLER 0,5MG/ML (DESLORATADINA) X 60ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "3.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891325",
+    "producto": "DESLER 5MG (DESLORATADINA) X 10 TAB",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.99",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454002769",
+    "producto": "DESLER M ( DESLORATADINA 5MG - MONTELUKAST 10MG ) 30 TAB",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "13.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000272",
+    "producto": "DEXAMETASONA 0,05% (DEXAMER) X 20G CREMA",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "BOOZ",
+    "precio": "3.68",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000385",
+    "producto": "DIFENAC (DICLOFENAC SODICO 1%) GEL X 30G",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "2.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001320",
+    "producto": "DOLAK SL (KETOROLACO) 10MG X 10 COMPRIMIDOS SUBLINGUALES",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "3.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803004079",
+    "producto": "DOLNIX 75MG X 20 CAPSULAS",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "4.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243811728",
+    "producto": "DIAGESIC  ( DICLOFENAC 1,8 MG/ML ) 120 ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243811704",
+    "producto": "DIAGESIC  ( DICLOFENAC POTASICO 75MG/3ML ) 2 AMPOLLAS DE 3ML",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "6.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001501",
+    "producto": "DICLOFENAC POTASICO 50MG X 20 COMP (CALOX)",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "1.73",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803003980",
+    "producto": "DALCITRIN (MUPIROCIN 2%) UNGUENTO X 30G",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "8.05",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7410000101851",
+    "producto": "DIHIDROLIP (LECARNIDIPINA) 20MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "VARGAS",
+    "precio": "5.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243812374",
+    "producto": "DI-EUDRIN ( HIDROCLOROTIAZIDA 12,5 MG )  24 TABLETAS",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "BIOTECH",
+    "precio": "3.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454003339",
+    "producto": "DIANALPER GEL X 30 GRAMOS",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7410000101851",
+    "producto": "DIHIDROLIP (LECARNIDIPINA) 20MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "ARSAL",
+    "precio": "5.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "",
+    "producto": "EUSILEN 4MG X 8TAB",
+    "fecha_vencimiento": "10/31/2026",
+    "laboratorio": "COFASA",
+    "precio": "3.88",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519051193",
+    "producto": "DIOSMINA 600MG X 14 TABLETAS (CALOX)",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "8.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000474",
+    "producto": "DOL 450MG ACETAMINOFEN + 40MG CAF + 1MG DIHIDROERGOT X 10TAB",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "2.37",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001587",
+    "producto": "DOL 450MG ACETAMINOFEN + 40MG CAF + 1MG DIHIDROERGOT X 20TAB",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "3.91",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519005974",
+    "producto": "DOL 450MG DISPENSADOR 20 BLISTER X 4TAB",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "13.32",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519006599",
+    "producto": "DOL PLUS 600MG DISPENSADOR 20 BLISTER X 4TAB",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "CALOX",
+    "precio": "15.48",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519005134",
+    "producto": "DOL PLUS 650MG X 10TAB",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "2.72",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519005141",
+    "producto": "DOL PLUS 650MG X 20TAB",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "4.04",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651932299",
+    "producto": "DUVADILAN 10MG COMPRIMIDOS X 30",
+    "fecha_vencimiento": "06/30/2026",
+    "laboratorio": "ZUOZ",
+    "precio": "8.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637396982",
+    "producto": "EDEMID ( FUROSEMIDA 20MG/2ML ) I.V X 5 AMPOLLAS ( BEHRENS )",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "14.73",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243815757",
+    "producto": "ERILON ( DESONIDA 0,05% ) CREMA 15G",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.37",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454890076",
+    "producto": "ESOMEPRAZOL 20 MG X 14TAB ( LA SANTE )",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "2.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454890090",
+    "producto": "ESOMEPRAZOL 40 MG X 14TAB ( LA SANTE )",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "3.73",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889285",
+    "producto": "ESOZ 20 MG (ESOMEPRAZOL) X 14 CAPS",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "3.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891264",
+    "producto": "ESOZ 20 MG (ESOMEPRAZOL) X 7 CAPSULAS",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "GALENO",
+    "precio": "2.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889308",
+    "producto": "ESOZ 20 MG (ESOMEPRAZOL) X 28 CAPS",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "6.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889292",
+    "producto": "ESOZ 40 MG (ESOMEPRAZOL)  X 14 CAPS",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "4.29",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889315",
+    "producto": "ESOZ 40 MG ( ESOMERAZOL ) X 28 CAPS",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "8.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818222164",
+    "producto": "EUSILEN 4MG X 15TAB",
+    "fecha_vencimiento": "08/31/2026",
+    "laboratorio": "COFASA",
+    "precio": "8.28",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116005",
+    "producto": "EUSILEN 4MG X 8TAB",
+    "fecha_vencimiento": "10/31/2026",
+    "laboratorio": "COFASA",
+    "precio": "3.88",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818113066",
+    "producto": "EUSILEN 4MG/2ML  X 2AMP",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "COFASA",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317275",
+    "producto": "ETORICOXIB 60MG X 10 TABLETAS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "3.77",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001290",
+    "producto": "FAZOL (SECNIDAZOL) 500MG X 15ML SUSPENSION ORAL",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "DOLLDER",
+    "precio": "3.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803002310",
+    "producto": "FUNGOSIN (ITRACONAZOL) 100MG X 14 CAPSULAS",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "DOLLDER",
+    "precio": "8.08",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803002327",
+    "producto": "FUNGOSIN (ITRACONAZOL) 100MG X 28 CAPSULAS",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "DOLLDER",
+    "precio": "14.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000521",
+    "producto": "FUNGOSIN (ITRACONAZOL) 100MG X 6 CAPSULAS",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "DOLLDER",
+    "precio": "5.45",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000130",
+    "producto": "FUGOLIN ( CLOTRIMAZOL 1% ) CREMA 20G",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "3.44",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000680",
+    "producto": "FUGOLIN SOLUCI�N (CLOTRIMAZOL 1%) X 30 ML",
+    "fecha_vencimiento": "12/30/2023",
+    "laboratorio": "VINCENTI",
+    "precio": "3.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000536",
+    "producto": "FUGOLIN ( CLOTRIMAZOL 1% ) USO TOPICO SPRAY 30 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "4.96",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000307",
+    "producto": "FUGOLIN ( CLOTRIMAZOL 1% ) USO VAGINAL CREMA 50 G",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "6.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000413",
+    "producto": "FUGOLIN ( CLOTRIMAZOL 500 MG ) USO VAGINAL CAPSULA BLANDA",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "VINCENTI",
+    "precio": "5.13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000680",
+    "producto": "FUGOLIN (CLOTRIMAZOL 1%) SOLUCION TOPICA X 30ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "VINCENTI",
+    "precio": "3.44",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000321",
+    "producto": "FUROSIL ( FURAZOLIDONA 50 MG / 15 ML ) 90 ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.59",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349723762",
+    "producto": "FEMIZOL (METRONIDAZOL 750MG + MICONAZOL 200MG) X 7 OVULOS",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "VARGAS",
+    "precio": "9.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317428",
+    "producto": "FESTAL (PANCREATINA) X 10 GRAGEAS",
+    "fecha_vencimiento": "02/08/2024",
+    "laboratorio": "CALOX",
+    "precio": "4.63",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519007688",
+    "producto": "FEXOFENADINA CLORHIDRATO 120MG X 10 TABLETAS",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "CALOX",
+    "precio": "3.12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317794",
+    "producto": "FINASTERIDE 5MG X 10 TABLETAS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "2.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519050820",
+    "producto": "FINASTERIDE 5MG X 30 TABLETAS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "CALOX",
+    "precio": "5.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243817782",
+    "producto": "FLENOX (AMBROXOL) JARABE PEDIATRICO X 120ML",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243817829",
+    "producto": "FLENOX (AMBROXOL) JARABE X 120ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637005495",
+    "producto": "FUNGOMAX ( FLUCONAZOL 2MG/ML )  I.V. X 100 ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "2.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782001830",
+    "producto": "FRIXONIL ( SALICILATO DE METILO ) 5G/100 ML 60 ML",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "VINCENTI",
+    "precio": "3.44",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000296",
+    "producto": "GENTAMICINA 0,1% (GENTAMICIS) X 20G CREMA",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "BOOZ",
+    "precio": "2.92",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243820355",
+    "producto": "GINACOL SOLUCION VAGINAL X 135ML",
+    "fecha_vencimiento": "05/31/2025",
+    "laboratorio": "BIOTECH",
+    "precio": "3.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591136923873",
+    "producto": "GLICERINA 1,68G X 6 SUPOSITORIOS",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "GENERICO",
+    "precio": "3.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349923957",
+    "producto": "GLICERINA 2,88G SUPOSITORIOS X 6",
+    "fecha_vencimiento": "08/30/2023",
+    "laboratorio": "GENERICO",
+    "precio": "5.07",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763165056",
+    "producto": "GLIMEPERIDE 2MG X 16 TAB ( LA SANTE )",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "2.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891202",
+    "producto": "GLIMERID 4MG ( GLIMEPERIDE )  X 10 TAB",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75926370009888",
+    "producto": "GLUCONATO DE CALCIO AL 10%  INFUSION X 100 ML ( BEHRENZ )",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "BEHRENS",
+    "precio": "3.97",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763200627",
+    "producto": "GLUSTAR 20MG ( ATORVASTATINA ) X 14 TABLETAS",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "2.97",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349844757",
+    "producto": "GYNOVIT DUCHA VAGINAL DESECHABLE 130ML",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "VARGAS",
+    "precio": "3.05",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454002301",
+    "producto": "HEDRALIV 0,035 G/5ML X 120 ML JAB",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "PHARMATECH",
+    "precio": "4.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349722963",
+    "producto": "HENOVIC (VITAMINAS ACD) GOTAS 30ML",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "VARGAS",
+    "precio": "5.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818111048",
+    "producto": "IPALAT ( CLOTRIMAZOL ) SOLUCION 10 MG/ML X 20 ML",
+    "fecha_vencimiento": "08/31/2026",
+    "laboratorio": "COFASA",
+    "precio": "3.29",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818114001",
+    "producto": "IPALAT ( CLOTRIMAZOL ) CREMA 1% X 20 GRAMOS",
+    "fecha_vencimiento": "04/30/2026",
+    "laboratorio": "COFASA",
+    "precio": "4.37",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001498",
+    "producto": "IDOXEN (VENLAFAXINA) 150MG X 10 CAPSULAS LP",
+    "fecha_vencimiento": "12/31/2022",
+    "laboratorio": "DOLLDER",
+    "precio": "13.89",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001504",
+    "producto": "IDOXEN (VENLAFAXINA) 75MG X 10 CAPSULAS LP",
+    "fecha_vencimiento": "12/31/2022",
+    "laboratorio": "DOLLDER",
+    "precio": "5.56",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243826494",
+    "producto": "ISOSPRAY PLUS (CLORURO DE CETILPIRIDINIO ) 180 ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "4.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243826777",
+    "producto": "IVAGAN FORTE 650MG X 10TAB",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243826708",
+    "producto": "IVAGAN 450MG X10TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "2.99",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519007121",
+    "producto": "IVERMECTINA 6MG X 4TAB (CALOX)",
+    "fecha_vencimiento": "04/30/2023",
+    "laboratorio": "CALOX",
+    "precio": "1.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716694",
+    "producto": "KATIVIL ( L-CARNITINA ) 1G/10ML SIN AZUCAR SOLUCION X 120ML",
+    "fecha_vencimiento": "05/01/2023",
+    "laboratorio": "COFASA",
+    "precio": "7.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716694",
+    "producto": "KATIVIL ( L-CARNITINA ) 1G/10ML SOLUCION X 90 ML",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "COFASA",
+    "precio": "5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349429787",
+    "producto": "KETAZOL 20MG/G CREMA X 15 G",
+    "fecha_vencimiento": "09/30/2026",
+    "laboratorio": "VARGAS",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716861",
+    "producto": "LAGRICOF ( HIPROMELOSA )  SOLUCION OFTALMICA X 15 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "4.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763081134",
+    "producto": "LAGRIOFTOL 0,3% (LAGRIMAS ARTIFICIALES)SOL.OFTALMICA X 15ML",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "3.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716809",
+    "producto": "LATACOF-DUO SOLUCION OFTALMICA  X 2,5 ML",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "COFASA",
+    "precio": "7.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519317411",
+    "producto": "LASIX (FUROSEMIDA) 20MG X 24 COMPRIMIDOS",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "MCK",
+    "precio": "3.01",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000741",
+    "producto": "LEVOFERIN 30MG/5ML SOLUCION X 90 ML",
+    "fecha_vencimiento": "03/30/2025",
+    "laboratorio": "VINCENTI",
+    "precio": "4.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637008113",
+    "producto": "LEVOTEC ( LEVOFLOXACINA 5 MG/ML ) 500MG X 100 ML ( BEHRENS )",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "4.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637007901",
+    "producto": "LEVOTEC ( LEVOFLOXACINA 5 MG/ML ) 750MG X 150 ML ( BEHRENS )",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "BEHRENS",
+    "precio": "6.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501298234809",
+    "producto": "LEVOTIROXINA (EUTIROX) 25 MCG X 50 TABLETAS",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "MERCK",
+    "precio": "5.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "75971281",
+    "producto": "LIDOCAINA 2%  AMP 30 ML IV/IM  ( ALESS )",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "ALESS",
+    "precio": "3.52",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501298234908",
+    "producto": "LEVOTIROXINA  (EUTIROX) 50 MCG X 50 TABLETAS",
+    "fecha_vencimiento": "06/30/2023",
+    "laboratorio": "MERCK",
+    "precio": "7.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7501298234601",
+    "producto": "LEVOTIROXINA  (EUTIROX) 100 MCG X 50 TABLETAS",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "MERCK",
+    "precio": "8.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000729",
+    "producto": "LOREX (LORATADINA) 10MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "1.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000750",
+    "producto": "LOREX (LORATADINA) 1MG/ML JARABE X 60ML",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "1.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243831474",
+    "producto": "LOGANIL (CARBOXIMETILCISTEINA) 250MG/5ML X 120ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "4.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243831511",
+    "producto": "LOGANIL (CARBOXIMETILCISTEINA) 100MG/5ML JARABE PED X 120ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243831641",
+    "producto": "LOKARIN (LORATADINA+PSEUDOEFEDRINA) 5MG-60MG/5ML X 120ML",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349723571",
+    "producto": "LOPERAM 2MG 10 TABLETAS",
+    "fecha_vencimiento": "10/31/2026",
+    "laboratorio": "VARGAS",
+    "precio": "2.1",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349455830",
+    "producto": "LOPERAM (LOPERAMIDA CLORHIDRATO 2MG 200 TAB) 50 BLISTER 4 Tab",
+    "fecha_vencimiento": "05/31/2026",
+    "laboratorio": "VARGAS",
+    "precio": "54.29",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000788",
+    "producto": "LORATADINA 10MG X 10 TABLETAS (CALOX)",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "CALOX",
+    "precio": "1.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891165",
+    "producto": "LOSARTAN POTASICO 100MG X 10TAB (LA SANTE)",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "2.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891172",
+    "producto": "LOSARTAN POTASICO 100MG X 30TAB (LA SANTE)",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "5.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889728",
+    "producto": "LOSARTAN POTASICO/HCT 100 MG-25 MG X 30TAB ( LA SANTE )",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "6.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454003308",
+    "producto": "LOSARTAN POTASICO/HCT 100MG-25MG X 10 TABLETAS",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "2.3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349001051",
+    "producto": "LUMBAX ( IBUPROFENO 600 MG ) 10 TAB",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "VARGAS",
+    "precio": "2.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349001075",
+    "producto": "LUMBAX ( IBUPROFENO 800 MG ) 6 TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "VARGAS",
+    "precio": "3.73",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349890785",
+    "producto": "LUMBAX (IBUPROFENO 600 MG 100 TAB)  25 BLISTER X 4 TAB",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "VARGAS",
+    "precio": "49.12",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591241833456",
+    "producto": "MELAX (LAXANTE NATURAL) X 200G POLVO",
+    "fecha_vencimiento": "05/31/2023",
+    "laboratorio": "NATURISSIMA",
+    "precio": "14.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454162050",
+    "producto": "MELOXICAM 15 MG X 10 TAB",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "3.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597758000671",
+    "producto": "METRONIDAZOL 500 MG X 10 OVULOS ( ALESS )",
+    "fecha_vencimiento": "31-11-2023",
+    "laboratorio": "ALESS",
+    "precio": "4.17",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597758000640",
+    "producto": "MICONAZOL 400 MG X 3 OVULOS VAGINALES ( ALESS )",
+    "fecha_vencimiento": "31-11-2023",
+    "laboratorio": "ALESS",
+    "precio": "3.51",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818113011",
+    "producto": "MIOVIT ( COMPLEJO B )  X 1 AMPOLLAS",
+    "fecha_vencimiento": "06/30/2024",
+    "laboratorio": "COFASA",
+    "precio": "1.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818118030",
+    "producto": "MIOVIT ( COMPLEJO B )  X 10 GRAGEAS",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "1.32",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818026366",
+    "producto": "MIOVIT ( COMPLEJO B )  X 3 AMPOLLAS",
+    "fecha_vencimiento": "12/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "3.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818118047",
+    "producto": "MIOVIT ( COMPLEJO B )  X 30 GRAGEAS",
+    "fecha_vencimiento": "10/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "3.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818251331",
+    "producto": "MIOVIT ( COMPLEJO B ) GOTAS PEDIATRICO X 20 ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "COFASA",
+    "precio": "2.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818251393",
+    "producto": "MIOVIT ( COMPLEJO B ) SOLUCION X 180 ML",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "COFASA",
+    "precio": "6.5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349527124",
+    "producto": "MODERAN 10,1G/15ML SOLUCION X 120ML",
+    "fecha_vencimiento": "12/31/2023",
+    "laboratorio": "VARGAS",
+    "precio": "8.44",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891301",
+    "producto": "MONTELUKAST 5MG X 10TAB MASTICABLES (LA SANTE)",
+    "fecha_vencimiento": "01/30/2025",
+    "laboratorio": "LA SANTE",
+    "precio": "2.57",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803002402",
+    "producto": "MUCLAR (AMBROXOL + LORATADINA) 30MG-5MG/5ML JARABE X 60ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "4.17",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818112021",
+    "producto": "MUCOBROL ( BROMEXINA ) 4MG/5ML SOLUCION X 120 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "COFASA",
+    "precio": "5",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651723651",
+    "producto": "MUCOLIPTO 15MG/5ML (AMBROXOL) X 90 ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VARGAS",
+    "precio": "3.53",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651722401",
+    "producto": "MUCORAMA 15MG/5ML JARABE X 118ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VARGAS",
+    "precio": "3.83",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243834574",
+    "producto": "MULTIDERM 2% (MUPIROCIN) UNGUENTO X 15G",
+    "fecha_vencimiento": "08/02/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "5.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000258",
+    "producto": "METRONIDAZOL+FLUCONAZOL+DEXAMETASONA (BACUMER) X 20G CREMA",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BOOZ",
+    "precio": "4.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000241",
+    "producto": "METRONIDAZOL 2,5% + FLUCONAZOL 2% (MICOSMER) X 20G CREMA",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "BOOZ",
+    "precio": "3.83",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000227",
+    "producto": "MOXIFLOXACINA (BACTROCIS) 8MG X 20G CREMA",
+    "fecha_vencimiento": "02/28/2023",
+    "laboratorio": "BOOZ",
+    "precio": "3.09",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000774",
+    "producto": "MICOFLUX (FLUCONAZOL) 150MG X 2 CAPSULAS",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "3.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7706309000262",
+    "producto": "NAFAZOL ( OXIMETAZOLINA CLORHIDRATO ) SOLUCION NASAL 15 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.39",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000835",
+    "producto": "NOPUCID (DECAMETRINA) LOCION X 100ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "5.42",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000811",
+    "producto": "NOPUCID (DECAMETRINA) SHAMPOO X 100ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "5.23",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349723229",
+    "producto": "NOVACODIN (GUAIFENESINA 50MG/5ML) SIN AZUCAR 120 ML",
+    "fecha_vencimiento": "02/29/2024",
+    "laboratorio": "VARGAS",
+    "precio": "3.23",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454163682",
+    "producto": "OMEPRAZOL 20MG X 8 CAPSULAS (LA SANTE)",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "1.95",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763889099",
+    "producto": "OMEPRAZOL 40MG X 30 CAPSULAS (LA SANTE)",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "4.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000567",
+    "producto": "OTAN ( TIROTRICINA - ANTIPIRINA / 100 ML ) 5 ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "4.03",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243839753",
+    "producto": "OROZIM (PANCREATINA) 192MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "01/30/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "6.61",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000611",
+    "producto": "PAPAVERYL ( PAPAVERINA 10 MG/ML ) ELIXIR GOTAS 30 ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "4.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519005783",
+    "producto": "PANTOPRAZOL 40MG X 7 TABLETAS (CALOX)",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "CALOX",
+    "precio": "2.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519008630",
+    "producto": "PINAVERIUM BROMURO 100MG X 20 TABLETAS",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "4.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519008623",
+    "producto": "PINAVERIUM BROMURO 50MG X 20 TABLETAS",
+    "fecha_vencimiento": "02/28/2025",
+    "laboratorio": "CALOX",
+    "precio": "3.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818111055",
+    "producto": "PINVEX ( ACIDO SALICILICO 5G-1G/100ML )  10 ML",
+    "fecha_vencimiento": "09/30/2026",
+    "laboratorio": "COFASA",
+    "precio": "3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454172073",
+    "producto": "PIROXICAM 20MG X 10 CAPSULAS ( LA SANTE )",
+    "fecha_vencimiento": "11/30/2026",
+    "laboratorio": "LA SANTE",
+    "precio": "2.29",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001044",
+    "producto": "PREDNISONA 50MG X 10TAB",
+    "fecha_vencimiento": "12/31/2026",
+    "laboratorio": "CALOX",
+    "precio": "4.6",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519001037",
+    "producto": "PREDNISONA 5MG X 10TAB (CALOX)",
+    "fecha_vencimiento": "02/28/2027",
+    "laboratorio": "CALOX",
+    "precio": "1.65",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519050806",
+    "producto": "PREDNISONA 5MG X 30TAB (CALOX)",
+    "fecha_vencimiento": "12/31/2026",
+    "laboratorio": "CALOX",
+    "precio": "3.25",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7709031877546",
+    "producto": "PROCILUS D2 PROBIOTICOS X 10 SOBRES DE 1 GRAMO (LA SANTE)",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BIONUTREC",
+    "precio": "13",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592349722864",
+    "producto": "PREVERAL CON DEXTROMETORFANO (3MG-15MG/5ML) 120ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "VARGAS",
+    "precio": "3.99",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243843064",
+    "producto": "PROPANOLOL 10MG X 20 TABLETAS",
+    "fecha_vencimiento": "11/30/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "3",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000319",
+    "producto": "PROVIT B5 + GLICERINA (BEDUCIS) LOCION X 200ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "BOOZ",
+    "precio": "5.48",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519000528",
+    "producto": "PROKIDS 1G X 30 SOBRES",
+    "fecha_vencimiento": "11/11/2023",
+    "laboratorio": "CALOX",
+    "precio": "6.03",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818116067",
+    "producto": "REDUBEN (NIMESULIDE) 100MG X 10TAB",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "COFASA",
+    "precio": "4.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651722937",
+    "producto": "REFLUXYL SUSPENSION ORAL X 120ML",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "8.19",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243845105",
+    "producto": "RINOT (ACETAMINOFEN+CAFEINA+CLORFENIRAMINA) X 12CAPS",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "3.05",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519009255",
+    "producto": "RISPERIDONA 2 MG X 20 TABLETAS (CALOX)",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "CALOX",
+    "precio": "3.47",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001187",
+    "producto": "SALIC METILICO 10% + MENTOL 7% + ALCANFOR 2% (BOOZSPORT)X20G",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "2.31",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591241846647",
+    "producto": "SAX ACID SOLUCION VAGINAL FCO 135 ML C/CANUL",
+    "fecha_vencimiento": "03/31/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "3.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591651957551",
+    "producto": "SITAGLIPTINA 50 MG - METFORMINA 500 MG (10 BLIST X 10TAB)",
+    "fecha_vencimiento": "08/31/2023",
+    "laboratorio": "MAGNUS PHARMA",
+    "precio": "42.4",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000604",
+    "producto": "SINUTIL 325MG-32MG-4MG/15ML JARABE X 90ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.9",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000659",
+    "producto": "SINUTIL 80MG-0,5MG/ML SOLUCION PEDIATRICA X 30ML",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.55",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637398689",
+    "producto": "SEDACONS ( DEXMEDETOMIDINA ) 100MCG/ML X 5 AMP.  ( BEHRENS )",
+    "fecha_vencimiento": "30-11-20236",
+    "laboratorio": "BEHRENS",
+    "precio": "34.33",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782001861",
+    "producto": "SOLUNOVAR ( CETILPIRIDINIO-BENCIDAMINA ) SOLUCION 120 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.64",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592782000932",
+    "producto": "SOLUNOVAR ( CLORURO DE CETILPIRIDINEO 0,05% ) BUCAL 240 ML",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "VINCENTI",
+    "precio": "2.64",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637398535",
+    "producto": "SUERO ( REHIDROSOL ) SABOR FRAMBUESA  X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637397415",
+    "producto": "SUERO ( REHIDROSOL ) SABOR FRESA  X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637398528",
+    "producto": "SUERO ( REHIDROSOL ) SABOR MANZANA  X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592637398443",
+    "producto": "SUERO ( REHIDROSOL ) SABOR UVA  X 500ML ( BEHRENS )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "BEHRENS",
+    "precio": "3.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763145768",
+    "producto": "SULAMP 750 MG (SULTAMICILINA ) X 14 TAB",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "16.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591519007749",
+    "producto": "TIOCOLCHICOSIDO 4MG X 12 TABLETAS (CALOX)",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "CALOX",
+    "precio": "4.27",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891288",
+    "producto": "TIOCOLFEN X 10 TAB (IBUPROFENO 600 MG/TIOCOLCHICOSIDO 4 MG)",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "7.61",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454001779",
+    "producto": "TIOCOLFEN X 15 TAB (IBUPROFENO 600 MG/TIOCOLCHICOSIDO 4 MG)",
+    "fecha_vencimiento": "07/31/2023",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "9.96",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001832",
+    "producto": "TALERC (CETIRIZINA) 10MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "1.53",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803004017",
+    "producto": "TALERC (CETIRIZINA) 10MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "1.93",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001818",
+    "producto": "TALERC (CETIRIZINA) 1MG/ML X 120ML",
+    "fecha_vencimiento": "05/31/2024",
+    "laboratorio": "DOLLDER",
+    "precio": "2.43",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243851106",
+    "producto": "TONUM (DOMPERIDONA) 10MG X 30 TABLETAS",
+    "fecha_vencimiento": "08/31/2024",
+    "laboratorio": "BIOTECH",
+    "precio": "4.55",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243851083",
+    "producto": "TONUM (DOMPERIDONA) 1MG/ML SUSPENSION ORAL X 100ML",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BIOTECH",
+    "precio": "4.2",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454381079",
+    "producto": "TRIPUR (TRIMETROPRIM 80 MG/SULFAMETOXAZOL 400 MG) X 20 COMP",
+    "fecha_vencimiento": "01/31/2027",
+    "laboratorio": "LA SANTE",
+    "precio": "2.67",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592430000734",
+    "producto": "UVAVITAL  X 30 CAPSULAS",
+    "fecha_vencimiento": "02/28/2024",
+    "laboratorio": "COSMELAB",
+    "precio": "10.76",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072001200",
+    "producto": "VALERIANA (NERCIS) JARABE X 120ML",
+    "fecha_vencimiento": "10/31/2023",
+    "laboratorio": "BOOZ",
+    "precio": "3.17",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454891417",
+    "producto": "VALSARTAN 80 MG- AMLODIPINO 5 MG X 10 TAB (LA SANTE)",
+    "fecha_vencimiento": "01/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "3.15",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592454889780",
+    "producto": "VALSARTAN 80 MG X 30 TAB ( LA SANTE )",
+    "fecha_vencimiento": "03/31/2024",
+    "laboratorio": "LA SANTE",
+    "precio": "5.8",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763341078",
+    "producto": "VALSARTAN 80MG X 14 TABLETAS (LA SANTE)",
+    "fecha_vencimiento": "11/30/2022",
+    "laboratorio": "LA SANTE",
+    "precio": "2.87",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591818716717",
+    "producto": "VERALEN ( DICLOFENAC DIETILAMONIO 1,16% )  GEL 20G",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "COFASA",
+    "precio": "2.07",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803001153",
+    "producto": "VIZERUL (RANITIDINA) 75MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "2.92",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803004024",
+    "producto": "VIZERUL (RANITIDINA) 75MG X 20 COMPRIMIDOS",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "3.97",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803000989",
+    "producto": "VIZERUL (RANITIDINA) 150 MG X 10 COMPRIMIDOS",
+    "fecha_vencimiento": "05/31/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "3.81",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763001460",
+    "producto": "VITAMINA C + ZINC X 144 TAB MAST.NARANJA 12 X12  ( LA SANTE)",
+    "fecha_vencimiento": "11/30/2023",
+    "laboratorio": "LA SANTE",
+    "precio": "25.75",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7703763750184",
+    "producto": "VITAMINA C 500 MG X 100 TAB MASTICABLE MANDARINA (LA SANTE)",
+    "fecha_vencimiento": "09/30/2024",
+    "laboratorio": "PHARMETIQUE LABS",
+    "precio": "14.59",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7597072000326",
+    "producto": "VITAMINA E + PROVIT B5 (HIDRAMER) LOCION X 200ML",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "BOOZ",
+    "precio": "6.69",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243856729",
+    "producto": "YONALAT 15MG-3MG/5ML JARABE X 120ML",
+    "fecha_vencimiento": "04/30/2024",
+    "laboratorio": "VARGAS",
+    "precio": "3.91",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7591243856705",
+    "producto": "YONAL JARABE 15MG/5ML  X 120ML",
+    "fecha_vencimiento": "03/31/2025",
+    "laboratorio": "BIOTECH",
+    "precio": "3.85",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592803002358",
+    "producto": "ZOST ( SILDENAFIL )  50MG X 1 COMPRIMIDO",
+    "fecha_vencimiento": "04/30/2025",
+    "laboratorio": "DOLLDER",
+    "precio": "0.61",
+    "pedido": "",
+    "total": "0"
+  },
+  {
+    "codigo": "7592930001965",
+    "producto": "ZERODOL GEL X 90G",
+    "fecha_vencimiento": "09/30/2023",
+    "laboratorio": "COSMELAB",
+    "precio": "2.98",
+    "pedido": "",
+    "total": "0"
+  }
+]
